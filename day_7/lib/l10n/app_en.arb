@@ -1,0 +1,13 @@
+{
+    "login":"Login",
+    "welcomePleaseLogin": "Welcome, please login",
+    "goToDashboard":"Go To Dashboard",
+    "welcomeToDashboardMr":"Welcome to dashboard Mr",
+    "dashboard":"Dashboard",
+    "projectCreatedSuccessfully":"Project created successfully",
+    "createProject":"Create Project",
+    "admin":"Admin",
+    "operation":"Operation",
+    "client":"Client",
+    "partner":"Partner"
+}

@@ -1,0 +1,14 @@
+{
+
+"login":"تسجيل دخول",
+"welcomePleaseLogin": "أهلًا, تفضل سجل الدخول",
+"goToDashboard":"عرض لوحة التحكم",
+"welcomeToDashboardMr":"أهلًا في لوحة التحكم سيد",
+"dashboard":"لوحة التحكم",
+"projectCreatedSuccessfully":"تم إنشاء المشروع بنجاح",
+"createProject":"إنشاء مشروع",
+"admin":"أدمن",
+"operation":"عمليّات",
+"client": "عميل",
+"partner":"شريك"
+}

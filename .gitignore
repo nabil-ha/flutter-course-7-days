@@ -1,0 +1,14 @@
+.DS_Store
+Full Code.zip
+
+# Flutter build output and tool caches (per day)
+**/build/
+**/.dart_tool/
+**/Pods/
+**/.gradle/
+**/.cxx/
+**/.symlinks/
+**/ephemeral/
+*.iml
+.idea/
+*.zip
